@@ -1,6 +1,6 @@
 # Amigo Secreto 🎁
 
-![Logo do Amigo Secreto](challenge-amigo-secreto_pt-main/imagens/Captura de Tela (98).png)
+![Imagem exemplo](challenge-amigo-secreto_pt-main/imagens/captura_tela_98.png)
 
 Bem-vindo ao projeto **Amigo Secreto** desenvolvido durante o curso da Alura! Este é um jogo simples que permite organizar um amigo secreto entre amigos, familiares ou colegas de trabalho. O programa oferece funcionalidades para adicionar participantes, detectar nomes repetidos ou inválidos, e sortear um nome aleatório para cada participante.
 
